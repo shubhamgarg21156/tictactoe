@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">TicTacToe</string>
+    <string name="yellow_has_won">Yellow has won</string>
+    <string name="restart">Restart</string>
+</resources>
